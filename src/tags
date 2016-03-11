@@ -1,0 +1,383 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ASSERT	common.h	31;"	d
+COMMON_H	common.h	5;"	d
+DECL_SYSCALL0	syscall.h	11;"	d
+DECL_SYSCALL1	syscall.h	12;"	d
+DECL_SYSCALL2	syscall.h	13;"	d
+DECL_SYSCALL3	syscall.h	14;"	d
+DECL_SYSCALL4	syscall.h	15;"	d
+DECL_SYSCALL5	syscall.h	16;"	d
+DEFN_SYSCALL0	syscall.h	18;"	d
+DEFN_SYSCALL1	syscall.h	26;"	d
+DEFN_SYSCALL2	syscall.h	34;"	d
+DEFN_SYSCALL3	syscall.h	42;"	d
+DEFN_SYSCALL4	syscall.h	50;"	d
+DEFN_SYSCALL5	syscall.h	58;"	d
+DESCRIPTOR_TABLES_H	descriptor_tables.h	9;"	d
+HEAP_INDEX_SIZE	kheap.h	14;"	d
+HEAP_MAGIC	kheap.h	15;"	d
+HEAP_MIN_SIZE	kheap.h	16;"	d
+INDEX_FROM_BIT	paging.c	22;"	d	file:
+IRQ	arch/i386/boot.asm	/^IRQ 0, 32$/;"	l
+IRQ	arch/i386/boot.asm	/^IRQ 1, 33$/;"	l
+IRQ	arch/i386/boot.asm	/^IRQ 10, 42$/;"	l
+IRQ	arch/i386/boot.asm	/^IRQ 11, 43$/;"	l
+IRQ	arch/i386/boot.asm	/^IRQ 12, 44$/;"	l
+IRQ	arch/i386/boot.asm	/^IRQ 13, 45$/;"	l
+IRQ	arch/i386/boot.asm	/^IRQ 14, 46$/;"	l
+IRQ	arch/i386/boot.asm	/^IRQ 15, 47$/;"	l
+IRQ	arch/i386/boot.asm	/^IRQ 2, 34$/;"	l
+IRQ	arch/i386/boot.asm	/^IRQ 3, 35$/;"	l
+IRQ	arch/i386/boot.asm	/^IRQ 4, 36$/;"	l
+IRQ	arch/i386/boot.asm	/^IRQ 5, 37$/;"	l
+IRQ	arch/i386/boot.asm	/^IRQ 6, 38$/;"	l
+IRQ	arch/i386/boot.asm	/^IRQ 7, 39$/;"	l
+IRQ	arch/i386/boot.asm	/^IRQ 8, 40$/;"	l
+IRQ	arch/i386/boot.asm	/^IRQ 9, 41$/;"	l
+IRQ0	isr.h	13;"	d
+IRQ1	isr.h	14;"	d
+IRQ10	isr.h	23;"	d
+IRQ11	isr.h	24;"	d
+IRQ12	isr.h	25;"	d
+IRQ13	isr.h	26;"	d
+IRQ14	isr.h	27;"	d
+IRQ15	isr.h	28;"	d
+IRQ2	isr.h	15;"	d
+IRQ3	isr.h	16;"	d
+IRQ4	isr.h	17;"	d
+IRQ5	isr.h	18;"	d
+IRQ6	isr.h	19;"	d
+IRQ7	isr.h	20;"	d
+IRQ8	isr.h	21;"	d
+IRQ9	isr.h	22;"	d
+ISR_ERRCODE	arch/i386/boot.asm	/^ISR_ERRCODE   10$/;"	l
+ISR_ERRCODE	arch/i386/boot.asm	/^ISR_ERRCODE   11$/;"	l
+ISR_ERRCODE	arch/i386/boot.asm	/^ISR_ERRCODE   12$/;"	l
+ISR_ERRCODE	arch/i386/boot.asm	/^ISR_ERRCODE   13$/;"	l
+ISR_ERRCODE	arch/i386/boot.asm	/^ISR_ERRCODE   14$/;"	l
+ISR_ERRCODE	arch/i386/boot.asm	/^ISR_ERRCODE   8$/;"	l
+ISR_H	isr.h	8;"	d
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 0$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 1$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 128$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 15$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 16$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 17$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 18$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 19$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 2$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 20$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 21$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 22$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 23$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 24$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 25$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 26$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 27$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 28$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 29$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 3$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 30$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 31$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 4$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 5$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 6$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 7$/;"	l
+ISR_NOERRCODE	arch/i386/boot.asm	/^ISR_NOERRCODE 9$/;"	l
+KERNEL_STACK_SIZE	task.h	7;"	d
+KHEAP_H	kheap.h	7;"	d
+KHEAP_INITIAL_SIZE	kheap.h	13;"	d
+KHEAP_START	kheap.h	12;"	d
+MONITOR_H	monitor.h	5;"	d
+NULL	common.h	36;"	d
+OFFSET_FROM_BIT	paging.c	23;"	d	file:
+ORDErED_ARRAY_H	ordered_array.h	2;"	d
+PAGING_H	paging.h	5;"	d
+PANIC	common.h	30;"	d
+SYSCALL_H	syscall.h	5;"	d
+TASK_H	task.h	2;"	d
+TIMER_H	timer.h	5;"	d
+access	descriptor_tables.h	/^    u8int  access;              \/\/ Access flags, determine what ring this segment can be used in.$/;"	m	struct:gdt_entry_struct
+accessed	paging.h	/^    u32int accessed   : 1;   \/\/ Has the page been accessed since last refresh?$/;"	m	struct:page
+alloc	kheap.c	/^void* alloc(uint32_t size, uint8_t page_align, heap_t *heap) {$/;"	f
+alloc_frame	paging.c	/^void alloc_frame(page_t *page, int is_kernel, int is_writeable) {$/;"	f
+always0	descriptor_tables.h	/^    u8int  always0;             \/\/ This must always be zero.$/;"	m	struct:idt_entry_struct
+array	ordered_array.h	/^  type_t *array;$/;"	m	struct:__anon1
+base	descriptor_tables.h	/^    u32int base;                \/\/ The address of the first element in our idt_entry_t array.$/;"	m	struct:idt_ptr_struct
+base	descriptor_tables.h	/^    u32int base;                \/\/ The address of the first gdt_entry_t struct.$/;"	m	struct:gdt_ptr_struct
+base_hi	descriptor_tables.h	/^    u16int base_hi;             \/\/ The upper 16 bits of the address to jump to.$/;"	m	struct:idt_entry_struct
+base_high	descriptor_tables.h	/^    u8int  base_high;           \/\/ The last 8 bits of the base.$/;"	m	struct:gdt_entry_struct
+base_lo	descriptor_tables.h	/^    u16int base_lo;             \/\/ The lower 16 bits of the address to jump to when this interrupt fires.$/;"	m	struct:idt_entry_struct
+base_low	descriptor_tables.h	/^    u16int base_low;            \/\/ The lower 16 bits of the base.$/;"	m	struct:gdt_entry_struct
+base_middle	descriptor_tables.h	/^    u8int  base_middle;         \/\/ The next 8 bits of the base.$/;"	m	struct:gdt_entry_struct
+bits	arch/i386/boot.asm	/^bits 32$/;"	l
+bits	arch/x86_64/boot.asm	/^bits 32$/;"	l
+bits	arch/x86_64/long_mode_init.asm	/^bits 64$/;"	l
+caca	main.c	/^int caca(int a) {$/;"	f
+check_cpuid	arch/x86_64/boot.asm	/^check_cpuid:$/;"	l
+check_long_mode	arch/x86_64/boot.asm	/^check_long_mode:$/;"	l
+check_multiboot	arch/i386/boot.asm	/^check_multiboot:$/;"	l
+check_multiboot	arch/x86_64/boot.asm	/^check_multiboot:$/;"	l
+clear_frame	paging.c	/^static void clear_frame(u32int frame_addr)$/;"	f	file:
+clone_directory	paging.c	/^page_directory_t* clone_directory(page_directory_t *src) {$/;"	f
+clone_table	paging.c	/^static page_table_t* clone_table(page_table_t *src, uint32_t *physAddr) {$/;"	f	file:
+contract	kheap.c	/^static u32int contract(u32int new_size, heap_t *heap) {$/;"	f	file:
+copy_page_physical	arch/i386/boot.asm	/^copy_page_physical:$/;"	l
+cr3	descriptor_tables.h	/^   u32int cr3;$/;"	m	struct:tss_entry_struct
+create_heap	kheap.c	/^heap_t* create_heap(uint32_t start, uint32_t end_addr, uint32_t max,$/;"	f
+create_ordered_array	ordered_map.c	/^ordered_array_t create_ordered_array(uint32_t max_size, lessthan_predicate_t less_than) {$/;"	f
+cs	descriptor_tables.h	/^   u32int cs;         \/\/ The value to load into CS when we change to kernel mode.$/;"	m	struct:tss_entry_struct
+cs	isr.h	/^    u32int eip, cs, eflags, useresp, ss; \/\/ Pushed by the processor automatically.$/;"	m	struct:registers
+current_directory	paging.c	/^page_directory_t *current_directory=0;$/;"	v
+current_task	task.c	/^volatile task_t *current_task;$/;"	v
+cursor_x	monitor.c	/^u8int cursor_x = 0;$/;"	v
+cursor_y	monitor.c	/^u8int cursor_y = 0;$/;"	v
+destroy_ordered_array	ordered_map.c	/^void destroy_ordered_array(ordered_array_t *array) {$/;"	f
+dirty	paging.h	/^    u32int dirty      : 1;   \/\/ Has the page been written to since last refresh?$/;"	m	struct:page
+do_fucking_jump	arch/i386/boot.asm	/^do_fucking_jump:$/;"	l
+do_other_stuff	main.c	/^void do_other_stuff() {$/;"	f
+do_stuff	main.c	/^void do_stuff() {$/;"	f
+ds	descriptor_tables.h	/^   u32int ds;         \/\/ The value to load into DS when we change to kernel mode.$/;"	m	struct:tss_entry_struct
+ds	isr.h	/^    u32int ds;                  \/\/ Data segment selector$/;"	m	struct:registers
+eax	descriptor_tables.h	/^   u32int eax;$/;"	m	struct:tss_entry_struct
+eax	isr.h	/^    u32int edi, esi, ebp, esp, ebx, edx, ecx, eax; \/\/ Pushed by pusha.$/;"	m	struct:registers
+ebp	descriptor_tables.h	/^   u32int ebp;$/;"	m	struct:tss_entry_struct
+ebp	isr.h	/^    u32int edi, esi, ebp, esp, ebx, edx, ecx, eax; \/\/ Pushed by pusha.$/;"	m	struct:registers
+ebp	task.h	/^   u32int esp, ebp;       \/\/ Stack and base pointers.$/;"	m	struct:task
+ebx	descriptor_tables.h	/^   u32int ebx;$/;"	m	struct:tss_entry_struct
+ebx	isr.h	/^    u32int edi, esi, ebp, esp, ebx, edx, ecx, eax; \/\/ Pushed by pusha.$/;"	m	struct:registers
+ecx	descriptor_tables.h	/^   u32int ecx;$/;"	m	struct:tss_entry_struct
+ecx	isr.h	/^    u32int edi, esi, ebp, esp, ebx, edx, ecx, eax; \/\/ Pushed by pusha.$/;"	m	struct:registers
+edi	descriptor_tables.h	/^   u32int edi;$/;"	m	struct:tss_entry_struct
+edi	isr.h	/^    u32int edi, esi, ebp, esp, ebx, edx, ecx, eax; \/\/ Pushed by pusha.$/;"	m	struct:registers
+edx	descriptor_tables.h	/^   u32int edx;$/;"	m	struct:tss_entry_struct
+edx	isr.h	/^    u32int edi, esi, ebp, esp, ebx, edx, ecx, eax; \/\/ Pushed by pusha.$/;"	m	struct:registers
+eflags	descriptor_tables.h	/^   u32int eflags;$/;"	m	struct:tss_entry_struct
+eflags	isr.h	/^    u32int eip, cs, eflags, useresp, ss; \/\/ Pushed by the processor automatically.$/;"	m	struct:registers
+eip	descriptor_tables.h	/^   u32int eip;$/;"	m	struct:tss_entry_struct
+eip	isr.h	/^    u32int eip, cs, eflags, useresp, ss; \/\/ Pushed by the processor automatically.$/;"	m	struct:registers
+eip	task.h	/^   u32int eip;            \/\/ Instruction pointer.$/;"	m	struct:task
+enable_paging	arch/x86_64/boot.asm	/^enable_paging:$/;"	l
+end_address	kheap.h	/^  uint32_t end_address;$/;"	m	struct:__anon4
+err_code	isr.h	/^    u32int int_no, err_code;    \/\/ Interrupt number and error code (if applicable)$/;"	m	struct:registers
+error	arch/i386/boot.asm	/^error:$/;"	l
+error	arch/x86_64/boot.asm	/^error:$/;"	l
+es	descriptor_tables.h	/^   u32int es;         \/\/ The value to load into ES when we change to kernel mode.$/;"	m	struct:tss_entry_struct
+esi	descriptor_tables.h	/^   u32int esi;$/;"	m	struct:tss_entry_struct
+esi	isr.h	/^    u32int edi, esi, ebp, esp, ebx, edx, ecx, eax; \/\/ Pushed by pusha.$/;"	m	struct:registers
+esp	descriptor_tables.h	/^   u32int esp;$/;"	m	struct:tss_entry_struct
+esp	isr.h	/^    u32int edi, esi, ebp, esp, ebx, edx, ecx, eax; \/\/ Pushed by pusha.$/;"	m	struct:registers
+esp	task.h	/^   u32int esp, ebp;       \/\/ Stack and base pointers.$/;"	m	struct:task
+esp0	descriptor_tables.h	/^   u32int esp0;       \/\/ The stack pointer to load when we change to kernel mode.$/;"	m	struct:tss_entry_struct
+esp1	descriptor_tables.h	/^   u32int esp1;       \/\/ Unused...$/;"	m	struct:tss_entry_struct
+esp2	descriptor_tables.h	/^   u32int esp2;$/;"	m	struct:tss_entry_struct
+expand	kheap.c	/^static void expand(u32int new_size, heap_t *heap) {$/;"	f	file:
+extern	arch/i386/boot.asm	/^extern code$/;"	l
+extern	arch/i386/boot.asm	/^extern irq_handler$/;"	l
+extern	arch/i386/boot.asm	/^extern isr_handler$/;"	l
+extern	arch/i386/boot.asm	/^extern kernel_main$/;"	l
+extern	arch/x86_64/boot.asm	/^extern long_mode_start$/;"	l
+find_smallest_hole	kheap.c	/^static int32_t find_smallest_hole(uint32_t size, uint8_t page_align, heap_t *heap) {$/;"	f	file:
+first_frame	paging.c	/^static u32int first_frame()$/;"	f	file:
+flags	descriptor_tables.h	/^    u8int  flags;               \/\/ More flags. See documentation.$/;"	m	struct:idt_entry_struct
+footer_t	kheap.h	/^} footer_t;$/;"	t	typeref:struct:__anon3
+fork	task.c	/^int fork() {$/;"	f
+frame	paging.h	/^    u32int frame      : 20;  \/\/ Frame address (shifted right 12 bits)$/;"	m	struct:page
+frames	paging.c	/^u32int *frames;$/;"	v
+free	kheap.c	/^void free(void *p, heap_t *heap) {$/;"	f
+free_frame	paging.c	/^void free_frame(page_t *page)$/;"	f
+fs	descriptor_tables.h	/^   u32int fs;         \/\/ The value to load into FS when we change to kernel mode.$/;"	m	struct:tss_entry_struct
+gdt64	arch/x86_64/boot.asm	/^gdt64:$/;"	l
+gdt_entries	descriptor_tables.c	/^gdt_entry_t gdt_entries[6];$/;"	v
+gdt_entry_struct	descriptor_tables.h	/^struct gdt_entry_struct$/;"	s
+gdt_entry_t	descriptor_tables.h	/^typedef struct gdt_entry_struct gdt_entry_t;$/;"	t	typeref:struct:gdt_entry_struct
+gdt_flush	arch/i386/boot.asm	/^gdt_flush:$/;"	l
+gdt_ptr	descriptor_tables.c	/^gdt_ptr_t   gdt_ptr;$/;"	v
+gdt_ptr_struct	descriptor_tables.h	/^struct gdt_ptr_struct$/;"	s
+gdt_ptr_t	descriptor_tables.h	/^typedef struct gdt_ptr_struct gdt_ptr_t;$/;"	t	typeref:struct:gdt_ptr_struct
+gdt_set_gate	descriptor_tables.c	/^static void gdt_set_gate(s32int num, u32int base, u32int limit, u8int access,$/;"	f	file:
+get_page	paging.c	/^page_t *get_page(u32int address, int make, page_directory_t *dir) {$/;"	f
+getpid	task.c	/^int getpid() {$/;"	f
+global	arch/i386/boot.asm	/^global copy_page_physical$/;"	l
+global	arch/i386/boot.asm	/^global do_fucking_jump$/;"	l
+global	arch/i386/boot.asm	/^global gdt_flush$/;"	l
+global	arch/i386/boot.asm	/^global idt_flush    ; Allows the C code to call idt_flush().$/;"	l
+global	arch/i386/boot.asm	/^global read_eip$/;"	l
+global	arch/i386/boot.asm	/^global start$/;"	l
+global	arch/i386/boot.asm	/^global tss_flush$/;"	l
+global	arch/x86_64/boot.asm	/^global start$/;"	l
+global	arch/x86_64/long_mode_init.asm	/^global long_mode_start$/;"	l
+granularity	descriptor_tables.h	/^    u8int  granularity;$/;"	m	struct:gdt_entry_struct
+gs	descriptor_tables.h	/^   u32int gs;         \/\/ The value to load into GS when we change to kernel mode.$/;"	m	struct:tss_entry_struct
+header	kheap.h	/^  header_t *header;$/;"	m	struct:__anon3
+header_end	arch/i386/multiboot_header.asm	/^header_end:$/;"	l
+header_end	arch/x86_64/multiboot_header.asm	/^header_end:$/;"	l
+header_start	arch/i386/multiboot_header.asm	/^header_start:$/;"	l
+header_start	arch/x86_64/multiboot_header.asm	/^header_start:$/;"	l
+header_t	kheap.h	/^} header_t;$/;"	t	typeref:struct:__anon2
+header_t_less_than	kheap.c	/^static int8_t header_t_less_than(void *a, void *b) {$/;"	f	file:
+heap_t	kheap.h	/^} heap_t;$/;"	t	typeref:struct:__anon4
+id	task.h	/^   int id;                \/\/ Process ID.$/;"	m	struct:task
+idt_entries	descriptor_tables.c	/^idt_entry_t idt_entries[256];$/;"	v
+idt_entry_struct	descriptor_tables.h	/^struct idt_entry_struct$/;"	s
+idt_entry_t	descriptor_tables.h	/^typedef struct idt_entry_struct idt_entry_t;$/;"	t	typeref:struct:idt_entry_struct
+idt_flush	arch/i386/boot.asm	/^idt_flush:$/;"	l
+idt_ptr	descriptor_tables.c	/^idt_ptr_t   idt_ptr;$/;"	v
+idt_ptr_struct	descriptor_tables.h	/^struct idt_ptr_struct$/;"	s
+idt_ptr_t	descriptor_tables.h	/^typedef struct idt_ptr_struct idt_ptr_t;$/;"	t	typeref:struct:idt_ptr_struct
+idt_set_gate	descriptor_tables.c	/^static void idt_set_gate(u8int num, u32int base, u16int sel, u8int flags) {$/;"	f	file:
+inb	common.c	/^u8int inb(u16int port)$/;"	f
+index	kheap.h	/^  ordered_array_t index;$/;"	m	struct:__anon4
+init_descriptor_tables	descriptor_tables.c	/^void init_descriptor_tables() {$/;"	f
+init_gdt	descriptor_tables.c	/^static void init_gdt() {$/;"	f	file:
+init_idt	descriptor_tables.c	/^static void init_idt() {$/;"	f	file:
+init_timer	timer.c	/^void init_timer(u32int frequency)$/;"	f
+initial_esp	main.c	/^uint32_t initial_esp;$/;"	v
+initialise_paging	paging.c	/^void initialise_paging() {$/;"	f
+initialise_syscalls	syscall.c	/^void initialise_syscalls()$/;"	f
+initialise_tasking	task.c	/^void initialise_tasking() {$/;"	f
+insert_ordered_array	ordered_map.c	/^void insert_ordered_array(type_t item, ordered_array_t *array) {$/;"	f
+int32_t	common.h	/^typedef int long int32_t;$/;"	t
+int8_t	common.h	/^typedef char int8_t;$/;"	t
+int_no	isr.h	/^    u32int int_no, err_code;    \/\/ Interrupt number and error code (if applicable)$/;"	m	struct:registers
+interrupt_handlers	isr.c	/^isr_t interrupt_handlers[256];$/;"	v
+inw	common.c	/^u16int inw(u16int port)$/;"	f
+iomap_base	descriptor_tables.h	/^   u16int iomap_base;$/;"	m	struct:tss_entry_struct
+irq_common_stub	arch/i386/boot.asm	/^irq_common_stub:$/;"	l
+irq_handler	isr.c	/^void irq_handler(registers_t regs)$/;"	f
+is_hole	kheap.h	/^  uint8_t is_hole;$/;"	m	struct:__anon2
+isr_common_stub	arch/i386/boot.asm	/^isr_common_stub:$/;"	l
+isr_handler	isr.c	/^void isr_handler(registers_t regs)$/;"	f
+isr_t	isr.h	/^typedef void (*isr_t)(registers_t);$/;"	t
+kernel_directory	paging.c	/^page_directory_t *kernel_directory=0;$/;"	v
+kernel_main	main.c	/^int kernel_main(void *ptr, uint32_t initial_stack) {$/;"	f
+kernel_stack	task.h	/^   uint32_t kernel_stack;$/;"	m	struct:task
+kfree	kheap.c	/^void kfree(uint32_t p) {$/;"	f
+kheap	kheap.c	/^heap_t *kheap = NULL;$/;"	v
+kmalloc	kheap.c	/^uint32_t kmalloc(uint32_t sz)$/;"	f
+kmalloc_align	kheap.c	/^uint32_t kmalloc_align(uint32_t sz)$/;"	f
+kmalloc_ap	kheap.c	/^uint32_t kmalloc_ap(uint32_t sz, uint32_t *phys)$/;"	f
+kmalloc_int	kheap.c	/^uint32_t kmalloc_int(uint32_t sz, int align, uint32_t *phys) {$/;"	f
+kmalloc_phys	kheap.c	/^uint32_t kmalloc_phys(uint32_t sz, uint32_t *phys)$/;"	f
+ldt	descriptor_tables.h	/^   u32int ldt;        \/\/ Unused...$/;"	m	struct:tss_entry_struct
+less_than	ordered_array.h	/^  lessthan_predicate_t less_than;$/;"	m	struct:__anon1
+lessthan_predicate_t	ordered_array.h	/^typedef int8_t (*lessthan_predicate_t)(type_t, type_t);$/;"	t
+limit	descriptor_tables.h	/^    u16int limit;               \/\/ The upper 16 bits of all selector limits.$/;"	m	struct:gdt_ptr_struct
+limit	descriptor_tables.h	/^    u16int limit;$/;"	m	struct:idt_ptr_struct
+limit_low	descriptor_tables.h	/^    u16int limit_low;           \/\/ The lower 16 bits of the limit.$/;"	m	struct:gdt_entry_struct
+long_mode_start	arch/x86_64/long_mode_init.asm	/^long_mode_start:$/;"	l
+lookup_ordered_array	ordered_map.c	/^type_t lookup_ordered_array(uint32_t i, ordered_array_t *array) {$/;"	f
+magic	kheap.h	/^  uint32_t magic;$/;"	m	struct:__anon2
+magic	kheap.h	/^  uint32_t magic;$/;"	m	struct:__anon3
+max_address	kheap.h	/^  uint32_t max_address;$/;"	m	struct:__anon4
+max_size	ordered_array.h	/^  uint32_t max_size;$/;"	m	struct:__anon1
+memcpy	common.c	/^void memcpy(u8int *dest, const u8int *src, u32int len)$/;"	f
+memset	common.c	/^void memset(u8int *dest, u8int val, u32int len)$/;"	f
+monitor_clear	monitor.c	/^void monitor_clear()$/;"	f
+monitor_put	monitor.c	/^void monitor_put(char c)$/;"	f
+monitor_write	monitor.c	/^void monitor_write(char *c)$/;"	f
+monitor_write_dec	monitor.c	/^void monitor_write_dec(uint32_t n)$/;"	f
+monitor_write_hex	monitor.c	/^void monitor_write_hex(uint32_t n)$/;"	f
+move_cursor	monitor.c	/^static void move_cursor()$/;"	f	file:
+move_stack	task.c	/^void move_stack(void *new_stack_start, uint32_t size) {$/;"	f
+next	task.h	/^   struct task *next;     \/\/ The next task in a linked list.$/;"	m	struct:task	typeref:struct:task::task
+next_pid	task.c	/^u32int next_pid = 1;$/;"	v
+nframes	paging.c	/^u32int nframes;$/;"	v
+num_syscalls	syscall.c	/^u32int num_syscalls = 3;$/;"	v
+ordered_array_t	ordered_array.h	/^} ordered_array_t;$/;"	t	typeref:struct:__anon1
+outb	common.c	/^void outb(u16int port, u8int value)$/;"	f
+p2_table	arch/x86_64/boot.asm	/^p2_table:$/;"	l
+p3_table	arch/x86_64/boot.asm	/^p3_table:$/;"	l
+p4_table	arch/x86_64/boot.asm	/^p4_table:$/;"	l
+paddr_t	common.h	/^typedef uint32_t paddr_t;$/;"	t
+page	paging.h	/^typedef struct page$/;"	s
+page_directory	paging.h	/^typedef struct page_directory$/;"	s
+page_directory	task.h	/^   page_directory_t *page_directory; \/\/ Page directory.$/;"	m	struct:task
+page_directory_t	paging.h	/^} page_directory_t;$/;"	t	typeref:struct:page_directory
+page_fault	paging.c	/^void page_fault(registers_t regs)$/;"	f
+page_t	paging.h	/^} page_t;$/;"	t	typeref:struct:page
+page_table	paging.h	/^typedef struct page_table$/;"	s
+page_table_t	paging.h	/^} page_table_t;$/;"	t	typeref:struct:page_table
+pages	paging.h	/^    page_t pages[1024];$/;"	m	struct:page_table
+panic	common.c	/^extern void panic(const char *message, const char *file, u32int line)$/;"	f
+panic_assert	common.c	/^extern void panic_assert(const char *file, u32int line, const char *desc)$/;"	f
+physicalAddr	paging.h	/^    u32int physicalAddr;$/;"	m	struct:page_directory
+place_ordered_array	ordered_map.c	/^ordered_array_t place_ordered_array(void *addr, uint32_t max_size, lessthan_predicate_t less_than) {$/;"	f
+placement_address	kheap.c	/^uint32_t placement_address = (uint32_t)&end;$/;"	v
+present	paging.h	/^    u32int present    : 1;   \/\/ Page present in memory$/;"	m	struct:page
+prev_tss	descriptor_tables.h	/^   u32int prev_tss;   \/\/ The previous TSS - if we used hardware task switching this would form a linked list.$/;"	m	struct:tss_entry_struct
+read_eip	arch/i386/boot.asm	/^read_eip:$/;"	l
+readonly	kheap.h	/^  uint8_t readonly;$/;"	m	struct:__anon4
+ready_queue	task.c	/^volatile task_t *ready_queue;$/;"	v
+register_interrupt_handler	isr.c	/^void register_interrupt_handler(u8int n, isr_t handler)$/;"	f
+registers	isr.h	/^typedef struct registers$/;"	s
+registers_t	isr.h	/^} registers_t;$/;"	t	typeref:struct:registers
+remove_ordered_array	ordered_map.c	/^void remove_ordered_array(uint32_t i, ordered_array_t *array) {$/;"	f
+rw	paging.h	/^    u32int rw         : 1;   \/\/ Read-only if clear, readwrite if set$/;"	m	struct:page
+s16int	common.h	/^typedef          short s16int;$/;"	t
+s32int	common.h	/^typedef          int   s32int;$/;"	t
+s8int	common.h	/^typedef          char  s8int;$/;"	t
+scroll	monitor.c	/^static void scroll()$/;"	f	file:
+section	arch/i386/multiboot_header.asm	/^section .multiboot_header$/;"	l
+section	arch/x86_64/boot.asm	/^section .bss$/;"	l
+section	arch/x86_64/boot.asm	/^section .rodata$/;"	l
+section	arch/x86_64/boot.asm	/^section .text$/;"	l
+section	arch/x86_64/long_mode_init.asm	/^section .text$/;"	l
+section	arch/x86_64/multiboot_header.asm	/^section .multiboot_header$/;"	l
+sel	descriptor_tables.h	/^    u16int sel;                 \/\/ Kernel segment selector.$/;"	m	struct:idt_entry_struct
+set_frame	paging.c	/^static void set_frame(u32int frame_addr)$/;"	f	file:
+set_kernel_stack	descriptor_tables.c	/^void set_kernel_stack(uint32_t stack) {$/;"	f
+set_up_SSE	arch/x86_64/boot.asm	/^set_up_SSE:$/;"	l
+set_up_page_tables	arch/x86_64/boot.asm	/^set_up_page_tables:$/;"	l
+size	kheap.h	/^  uint32_t size;$/;"	m	struct:__anon2
+size	ordered_array.h	/^  uint32_t size;$/;"	m	struct:__anon1
+ss	descriptor_tables.h	/^   u32int ss;         \/\/ The value to load into SS when we change to kernel mode.$/;"	m	struct:tss_entry_struct
+ss	isr.h	/^    u32int eip, cs, eflags, useresp, ss; \/\/ Pushed by the processor automatically.$/;"	m	struct:registers
+ss0	descriptor_tables.h	/^   u32int ss0;        \/\/ The stack segment to load when we change to kernel mode.$/;"	m	struct:tss_entry_struct
+ss1	descriptor_tables.h	/^   u32int ss1;$/;"	m	struct:tss_entry_struct
+ss2	descriptor_tables.h	/^   u32int ss2;$/;"	m	struct:tss_entry_struct
+stack_bottom	arch/x86_64/boot.asm	/^stack_bottom:$/;"	l
+stack_top	arch/x86_64/boot.asm	/^stack_top:$/;"	l
+standard_lessthan_predicate	ordered_map.c	/^int8_t standard_lessthan_predicate(type_t a, type_t b) {$/;"	f
+start	arch/i386/boot.asm	/^start:$/;"	l
+start	arch/x86_64/boot.asm	/^start:$/;"	l
+start_address	kheap.h	/^  uint32_t start_address;$/;"	m	struct:__anon4
+strcat	common.c	/^char *strcat(char *dest, const char *src)$/;"	f
+strcmp	common.c	/^int strcmp(char *str1, char *str2)$/;"	f
+strcpy	common.c	/^char *strcpy(char *dest, const char *src)$/;"	f
+supervisor	kheap.h	/^  uint8_t supervisor;$/;"	m	struct:__anon4
+switch_page_directory	paging.c	/^void switch_page_directory(page_directory_t *dir)$/;"	f
+switch_task	task.c	/^void switch_task() {$/;"	f
+switch_to_user_mode	task.c	/^void switch_to_user_mode() {$/;"	f
+syscall_handler	syscall.c	/^void syscall_handler(registers_t regs)$/;"	f
+syscalls	syscall.c	/^static void *syscalls[3] =$/;"	v	file:
+tables	paging.h	/^    page_table_t *tables[1024];$/;"	m	struct:page_directory
+tablesPhysical	paging.h	/^    u32int tablesPhysical[1024];$/;"	m	struct:page_directory
+task	task.h	/^typedef struct task$/;"	s
+task_t	task.h	/^} task_t;$/;"	t	typeref:struct:task
+test_frame	paging.c	/^static u32int test_frame(u32int frame_addr)$/;"	f	file:
+tick	timer.c	/^u32int tick = 0;$/;"	v
+timer_callback	timer.c	/^static void timer_callback(registers_t regs)$/;"	f	file:
+trap	descriptor_tables.h	/^   u16int trap;$/;"	m	struct:tss_entry_struct
+tss_entry	descriptor_tables.c	/^tss_entry_t tss_entry;$/;"	v
+tss_entry_struct	descriptor_tables.h	/^struct tss_entry_struct$/;"	s
+tss_entry_t	descriptor_tables.h	/^typedef struct tss_entry_struct tss_entry_t;$/;"	t	typeref:struct:tss_entry_struct
+tss_flush	arch/i386/boot.asm	/^tss_flush:$/;"	l
+type_t	ordered_array.h	/^typedef void* type_t;$/;"	t
+u16int	common.h	/^typedef unsigned short u16int;$/;"	t
+u32int	common.h	/^typedef unsigned int   u32int;$/;"	t
+u8int	common.h	/^typedef unsigned char  u8int;$/;"	t
+uint16_t	common.h	/^typedef unsigned short  uint16_t;$/;"	t
+uint32_t	common.h	/^typedef unsigned int long uint32_t;$/;"	t
+uint8_t	common.h	/^typedef unsigned char uint8_t;$/;"	t
+unused	paging.h	/^    u32int unused     : 7;   \/\/ Amalgamation of unused and reserved bits$/;"	m	struct:page
+user	paging.h	/^    u32int user       : 1;   \/\/ Supervisor level only if clear$/;"	m	struct:page
+useresp	isr.h	/^    u32int eip, cs, eflags, useresp, ss; \/\/ Pushed by the processor automatically.$/;"	m	struct:registers
+vaddr_t	common.h	/^typedef uint32_t vaddr_t;$/;"	t
+video_memory	monitor.c	/^u16int *video_memory = (u16int *)0xB8000;$/;"	v
+write_tss	descriptor_tables.c	/^static void write_tss(int32_t num, uint16_t ss0, uint32_t esp0) {$/;"	f	file:
